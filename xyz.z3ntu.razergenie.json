@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/z3ntu/RazerGenie/releases/download/v0.7/RazerGenie-0.7.tar.xz",
-                    "sha256": "adf801028a64feb4dcc2f1c0fdbbc931089718312590884aa2d37e636bd83f9b"
+                    "url": "https://github.com/z3ntu/RazerGenie/releases/download/v0.8.1/RazerGenie-0.8.1.tar.xz",
+                    "sha256": "2da308d70a88accf2a98899f0addef641fcedcbf69f99fffc69bb111f953b70e"
                 }
             ]
         }
