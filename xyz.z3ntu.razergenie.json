@@ -1,7 +1,7 @@
 {
     "app-id": "xyz.z3ntu.razergenie",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.12",
+    "runtime-version": "5.15",
     "sdk": "org.kde.Sdk",
     "command": "razergenie",
     "finish-args": [
@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/z3ntu/RazerGenie/releases/download/v0.8.1/RazerGenie-0.8.1.tar.xz",
-                    "sha256": "2da308d70a88accf2a98899f0addef641fcedcbf69f99fffc69bb111f953b70e"
+                    "url": "https://github.com/z3ntu/RazerGenie/releases/download/v0.9.0/RazerGenie-0.9.0.tar.xz",
+                    "sha256": "e4a35ce56f7a8bc102afaca121668831dab876a6f487849bce46b0c6613aa85e"
                 }
             ]
         }
