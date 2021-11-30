@@ -1,7 +1,7 @@
 {
     "app-id": "xyz.z3ntu.razergenie",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15",
+    "runtime-version": "5.15-21.08",
     "sdk": "org.kde.Sdk",
     "command": "razergenie",
     "finish-args": [
