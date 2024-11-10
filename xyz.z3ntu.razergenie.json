@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/z3ntu/libopenrazer/releases/download/v0.2.0/libopenrazer-0.2.0.tar.xz",
-                    "sha256": "86c28a1203e03f6c8f93490414a3a9ddcdb0459ce04bf08b6e3b6181478935f9"
+                    "url": "https://github.com/z3ntu/libopenrazer/releases/download/v0.3.0/libopenrazer-0.3.0.tar.xz",
+                    "sha256": "ebe5171f43bd178465d8936a484ff9a28da0b39eb42afda287e6b64b5b5dbd47"
                 }
             ]
         },
@@ -30,8 +30,12 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/z3ntu/RazerGenie/releases/download/v1.1.0/RazerGenie-1.1.0.tar.xz",
-                    "sha256": "4210b030e6f13421299f45d3c6da83ec5705f754177f1ac09be2a412eda59b5c"
+                    "url": "https://github.com/z3ntu/RazerGenie/releases/download/v1.2.0/RazerGenie-1.2.0.tar.xz",
+                    "sha256": "0c38fef6006f417d1c10d588ba5986477190af80c5f203c2e3fba8890edf757f"
+                },
+                {
+                    "type": "patch",
+                    "path": "razergenie-branding.patch"
                 }
             ]
         }

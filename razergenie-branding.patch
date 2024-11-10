@@ -1,0 +1,15 @@
+diff --git a/data/xyz.z3ntu.razergenie.appdata.xml b/data/xyz.z3ntu.razergenie.appdata.xml
+index e77db33..bfb2103 100644
+--- a/data/xyz.z3ntu.razergenie.appdata.xml
++++ b/data/xyz.z3ntu.razergenie.appdata.xml
+@@ -10,6 +10,10 @@
+   <developer id="eu.lucaweiss">
+     <name>Luca Weiss</name>
+   </developer>
++  <branding>
++    <color type="primary" scheme_preference="light">#00d96f</color>
++    <color type="primary" scheme_preference="dark">#00903c</color>
++  </branding>
+   <description>
+     <p>Adjust RGB lighting, brightness, DPI, polling rate and more on all of your Razer devices! Supports keyboards, mice, mousemats, headsets, keypads, mug holders, speakers, various docks, etc.</p>
+     <p>Create your own custom lighting with per-key editor!</p>
