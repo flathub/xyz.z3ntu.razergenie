@@ -1,7 +1,7 @@
 {
     "app-id": "xyz.z3ntu.razergenie",
     "runtime": "org.kde.Platform",
-    "runtime-version": "6.9",
+    "runtime-version": "6.11",
     "sdk": "org.kde.Sdk",
     "command": "razergenie",
     "finish-args": [
@@ -11,6 +11,10 @@
         "--share=network",
         "--talk-name=org.razer",
         "--device=dri"
+    ],
+    "cleanup": [
+        "/include",
+        "/lib/pkgconfig"
     ],
     "modules": [
         {
